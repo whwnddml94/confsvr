@@ -1,0 +1,2 @@
+example.property: "I AM IN THE DEFAULT"
+spring.jpa.database: "POSTGRSQL"
